@@ -9,5 +9,5 @@ Lab works are organized into separate folders, making it easy to find the conten
 # Labs
 
     -> Lab 1: TodoApi
-        -D:\Apex college\7th Sem\Dotnet_Lab\Lab_One\TodoApi\README.md
+        -Lab_One/TodoApi/README.md
 
