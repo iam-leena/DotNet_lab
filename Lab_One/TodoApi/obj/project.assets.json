@@ -3111,11 +3111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "D:\\Apex college\\7th Sem\\Dotnet_Lab\\Lab_One\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\Dell\\TodoApi\\TodoApi.csproj",
+      "projectPath": "D:\\Apex college\\7th Sem\\Dotnet_Lab\\Lab_One\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\TodoApi\\obj\\",
+      "outputPath": "D:\\Apex college\\7th Sem\\Dotnet_Lab\\Lab_One\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
